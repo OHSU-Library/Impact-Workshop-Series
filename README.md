@@ -1,22 +1,27 @@
-# Impact-Workshop-Series
-Slides, exercises and other material from for 2017 Impact Workshop Series
+### OHSU Impact Workshop Series
 
-The OHSU Impact Challenge Workshops are offered in partnership between the OHSU Library, the Career & Professional Development Center and the Office of Postdoctoral Affairs.  
+This repository contains slides, exercises and other materials from the Oregon Health and Science University Library's Impact Workshop Series. The series was designed to help scholars learn strategies for sharing, promoting and discussing their scientific interests and research. You will find materials to assist with the following workshops:
 
-See: http://www.ohsu.edu/xd/education/library/services/Impact-Challenge-Workshops.cfm for more information and to register.
+* Professional Selfies:  Bios & Headshots for Your Scientific Self
+* So, What Do You Do?:  How to Network and Talk About Yourself
+* The Science of Social Media:  How to Tweet Like Bill Nye
+* Your Virtual Resume:  How to Use LinkedIn to Your Advantage
+* Why Professionalism Matters:  Successful Communication and Time Management Skills 
+* High Impact Publishing:  Getting Your Work Published and Read
+* Show, Don’t Tell:  Tips and Tricks for Better Slide Decks and Posters
+* Rules of Research: 10 Things You Should be Doing with Your Data
+* Digital Science 101:  Electronic Lab Notebooks & Other tools for Productivity
 
-Except where otherwise noted, all workshop content is licensed under a Creative Commons Attribution 4.0 International license.
+Except where otherwise noted, all workshop content is licensed under a Creative Commons Attribution 4.0 International License. Before you add to or work in the files, please copy and save a new version of the workshop folder in your personal Google Drive.
 
-Feel free to contact us with question or ideas:  
+#### Contact
 
-Robin Champieux, MLIS
-champieu@ohsu.edu
+Robin Champieux, MLIS champieu@ohsu.edu
 
-Letisha R. Wyatt, PhD
-wyattl@ohsu.edu
+Letisha R. Wyatt, PhD wyattl@ohsu.edu
 
-Before you add to or work in the files, please copy and save a new version of workshop folder in your personal Google Drive.
+#### Acknowledgements
 
-Acknowledgments:  The content in this workshop was inspired by Stacy Konkiel’s work and instruction, most specifically her ebook the 30 Day Impact Challenge.
+Workshop content was inspired by Stacy Konkiel’s work and instruction, specifically her ebook *The 30 Day Impact Challenge*.
 
 
