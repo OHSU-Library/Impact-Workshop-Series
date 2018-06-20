@@ -4,7 +4,7 @@ This repository contains slides, exercises and other materials from the Oregon H
 
 * Professional Selfies:  Bios & Headshots for Your Scientific Self
 * So, What Do You Do?:  How to Network and Talk About Yourself
-* The Science of Social Media:  How to Tweet Like Bill Nye
+* The Science of Social Media:  How to Tweet Like Neil deGrasse Tyson
 * Your Virtual Resume:  How to Use LinkedIn to Your Advantage
 * Why Professionalism Matters:  Successful Communication and Time Management Skills 
 * High Impact Publishing:  Getting Your Work Published and Read
