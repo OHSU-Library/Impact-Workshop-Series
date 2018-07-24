@@ -18,8 +18,6 @@ Except where otherwise noted, all workshop content is licensed under a Creative 
 
 Robin Champieux, MLIS champieu@ohsu.edu
 
-Letisha R. Wyatt, PhD wyattl@ohsu.edu
-
 #### Acknowledgements
 
 Workshop content was inspired by Stacy Konkiel’s work and instruction, specifically her ebook *The 30 Day Impact Challenge*.
