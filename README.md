@@ -4,7 +4,7 @@ This repository contains slides, exercises and other materials from the Oregon H
 
 * [Professional Selfies:  Bios & Headshots for Your Scientific Self](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Professional_Selfies)
 * [So, What Do You Do?:  How to Network and Talk About Yourself](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Networking)
-* The Science of Social Media:  How to Tweet Like Neil deGrasse Tyson
+* [The Science of Social Media:  How to Tweet Like Neil deGrasse Tyson](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Social_Media)
 * Your Virtual Resume:  How to Use LinkedIn to Your Advantage
 * Why Professionalism Matters:  Successful Communication and Time Management Skills 
 * High Impact Publishing:  Getting Your Work Published and Read
