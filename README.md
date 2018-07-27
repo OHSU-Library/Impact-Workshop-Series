@@ -1,4 +1,4 @@
-### OHSU Impact Workshop Series
+## OHSU Impact Workshop Series
 
 This repository contains slides, exercises and other materials from the Oregon Health and Science University Library's Impact Workshop Series. The series was designed to help scholars learn strategies for sharing, promoting and discussing their scientific interests and research. You will find materials to assist with the following workshops:
 
@@ -14,11 +14,11 @@ This repository contains slides, exercises and other materials from the Oregon H
 
 Except where otherwise noted, all workshop content is licensed under a Creative Commons Attribution 4.0 International License. Before you add to or work in the files, please copy and save a new version of the workshop folder in your personal Google Drive.
 
-#### Contact
+### Contact
 
 Robin Champieux, MLIS champieu@ohsu.edu
 
-#### Acknowledgements
+### Acknowledgements
 
 Workshop content was inspired by Stacy Konkiel’s work and instruction, specifically her ebook *The 30 Day Impact Challenge*.
 
