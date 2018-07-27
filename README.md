@@ -19,7 +19,6 @@ Except where otherwise noted, all workshop content is licensed under a Creative 
 ### Contact
 
 Robin Champieux, MLIS champieu@ohsu.edu
-
 Olivia Hancock, MLIS (expected 2018) hancocko@ohsu.edu
 
 ### Acknowledgements
