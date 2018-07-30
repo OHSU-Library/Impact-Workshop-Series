@@ -9,9 +9,7 @@ is open to all.
 
 Workshop Instructors:
 
-Letisha Wyatt
-Olivia Hancock
-Robin Champieux
+Letisha Wyatt, Olivia Hancock, Robin Champieux
 
 
 
