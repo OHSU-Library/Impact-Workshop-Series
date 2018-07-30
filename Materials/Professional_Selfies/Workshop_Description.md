@@ -7,9 +7,8 @@ bio they can use in a variety of contexts.  The first 50 registered
 student and postdoc attendees will receive a free headshot, though the workshop
 is open to all.
 
-Workshop Instructors:
+Presented by Robin Champieux, champieu@ohsu.edu, Olivia Hancock, ohancock23@gmail.com, and Letisha Wyatt, wyattl@ohsu.edu
 
-Letisha Wyatt, Olivia Hancock, Robin Champieux
 
 
 
