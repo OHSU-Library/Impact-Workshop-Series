@@ -1,4 +1,4 @@
-The Science of Social Media: How to Tweet Like Neil deGrasse Tyson
+### The Science of Social Media: How to Tweet Like Neil deGrasse Tyson
 
 Most of us use social media, but many do not leverage it for professional success. Twitter is a powerful tool for science outreach and idea development because it can move conversations from an office or lab to a large network of experts and advocates.
 
