@@ -1,7 +1,7 @@
 ## OHSU Impact Workshop Series
 
 Scholars are routinely producing research, articles and projects that deserve attention. However, getting that attention requires strategy and communication skills. The Impact Workshop Series bridges the gap between producing and sharing scholarship.
-
+---
 In this repository you will find slides, exercises and other materials from Oregon Health and Science University Library's Impact Workshop Series. The materials are designed to help scholars learn strategies for sharing, promoting and discussing their scientific interests and research. Workshop topics are:
 
 * [Professional Selfies:  Bios & Headshots for Your Scientific Self](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Professional_Selfies)
@@ -13,7 +13,7 @@ In this repository you will find slides, exercises and other materials from Oreg
 * Show, Don’t Tell:  Tips and Tricks for Better Slide Decks and Posters
 * Rules of Research: 10 Things You Should be Doing with Your Data
 * Digital Science 101:  Electronic Lab Notebooks & Other tools for Productivity
-
+---
 Except where otherwise noted, all workshop content is licensed under a Creative Commons Attribution 4.0 International License. Before you add to or work in the files, please copy and save a new version of the workshop folder in your personal Google Drive.
 
 ### Contact
