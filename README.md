@@ -13,7 +13,7 @@ In this repository you will find slides, exercises and other materials from Oreg
 * Show, Don’t Tell:  Tips and Tricks for Better Slide Decks and Posters
 * Rules of Research: 10 Things You Should be Doing with Your Data
 * Digital Science 101:  Electronic Lab Notebooks & Other tools for Productivity
----
+
 Except where otherwise noted, all workshop content is licensed under a Creative Commons Attribution 4.0 International License. Before you add to or work in the files, please copy and save a new version of the workshop folder in your personal Google Drive.
 
 ### Contact
