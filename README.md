@@ -4,7 +4,7 @@
 
 In this repository you will find slides, exercises and other materials from Oregon Health & Science University Library's Impact Challenge Workshop series. The materials are designed to help students and early career faculty learn strategies for sharing, promoting and discussing their scientific interests and research. 
 
-* [Professional Selfies:  Bios & Headshots for Your Scientific Self](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Professional_Selfies)
+* **[Professional Selfies:  Bios & Headshots for Your Scientific Self](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Professional_Selfies)**
 * [So, What Do You Do?:  How to Network and Talk About Yourself](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Networking)
 * [The Science of Social Media:  How to Tweet Like Neil deGrasse Tyson](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Social_Media)
 * Your Virtual Resume:  How to Use LinkedIn to Your Advantage
