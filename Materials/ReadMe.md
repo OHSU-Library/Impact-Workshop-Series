@@ -1,4 +1,4 @@
-Slides, exercises and other materials from Oregon Health & Science University Library's Impact Challenge Workshop series. The materials are designed to help students and early career faculty learn strategies for sharing, promoting and discussing their scientific interests and research.  
+Slides, exercises and other materials from Oregon Health & Science University Library's Impact Challenge Workshop series. The materials are designed to help students and early career faculty learn strategies for sharing, promoting and discussing their scientific interests and research. Workshop materials will be added as they become available. 
 
 * [Professional Selfies:  Bios & Headshots for Your Scientific Self](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Professional_Selfies)
 * [So, What Do You Do?:  How to Network and Talk About Yourself](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Networking)
