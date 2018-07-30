@@ -1,4 +1,4 @@
-## OHSU Impact Workshop Series
+## OHSU Impact Challenge Workshop Series
 
 #### Scholars are routinely producing research, articles and projects that deserve attention. However, getting that attention requires strategy and communication skills. The Impact Workshop Series bridges the gap between producing and sharing scholarship.
 
