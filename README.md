@@ -1,7 +1,7 @@
 ## OHSU Impact Workshop Series
----
+
 Scholars are routinely producing research, articles and projects that deserve attention. However, getting that attention requires strategy and communication skills. The Impact Workshop Series bridges the gap between producing and sharing scholarship.
----
+
 In this repository you will find slides, exercises and other materials from Oregon Health and Science University Library's Impact Workshop Series. The materials are designed to help scholars learn strategies for sharing, promoting and discussing their scientific interests and research. Workshop topics are:
 
 * [Professional Selfies:  Bios & Headshots for Your Scientific Self](https://github.com/OHSU-Library/Impact-Workshop-Series/tree/master/Materials/Professional_Selfies)
