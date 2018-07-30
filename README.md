@@ -18,8 +18,10 @@ Except where otherwise noted, this repository and all workshop content are licen
 
 ### Contact
 
-* Robin Champieux, MLIS champieu@ohsu.edu
-* Olivia Hancock, MLIS (expected 2018) hancocko@ohsu.edu
+* Robin Champieux, MLIS [champieu@ohsu.edu](mailto:champieu@ohsu.edu)
+* Olivia Hancock, MLIS (expected 2018) [ohancock23@gmail.com](mailto:ohancock23@gmail.com)
+* Jackie Wirz, PhD [wirzj@ohsu.edu](mailto:wirzj@ohsu.edu)
+* Michael Matrone, PhD [matrone@ohsu.edu](mailto:matrone@ohsu.edu)
 
 ### Acknowledgements
 
